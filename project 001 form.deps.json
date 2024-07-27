@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "project 001 form/1.0.0": {
+        "runtime": {
+          "project 001 form.dll": {}
+        },
+        "resources": {
+          "aa/project 001 form.resources.dll": {
+            "locale": "aa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project 001 form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
