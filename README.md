@@ -2,4 +2,6 @@ EN : This program is exclusive for the national code of the people of Iran and t
 
 FA : این برنامه برای کد ملی مردم کشور ایران انحصار دارد و کاربرد این برنامه برای صحت کد ملی شخص میباشد
 
-Help : EN : To run the program, first "extract" the desired file and then use the program FA : برای اجرای برنامه ابتدا فایل مورد نظر را "اکسترکت" کرده و سپس از برنامه استفاده کنید
+--Help--
+EN : To run the program, first "extract" the desired file and then use the program 
+FA : برای اجرای برنامه ابتدا فایل مورد نظر را "اکسترکت" کرده و سپس از برنامه استفاده کنید
